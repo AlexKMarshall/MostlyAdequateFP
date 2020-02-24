@@ -1,0 +1,1 @@
+A project where I try out the code in [Mostly Adequate Guide to Functional Programming](https://drboolean.gitbooks.io/mostly-adequate-guide-old/content/ch1.html#a-brief-encounter)
